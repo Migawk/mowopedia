@@ -1,0 +1,153 @@
+/* SLAVIC */
+#ukraine {
+  fill: #00d709;
+}
+#belarus {
+  fill: #00c309;
+}
+#poland {
+  fill: #2a8300;
+}
+#czech {
+  fill: #247000;
+}
+#slovakia {
+  fill: #247110;
+}
+#slovenia {
+  fill: #547140;
+}
+#croatia {
+  fill: #347120;
+}
+#serbia {
+  fill: #367122;
+}
+#bosnia {
+  fill: #367123;
+}
+#albania {
+  fill: #909102;
+}
+#macedonia {
+  fill: #809110;
+}
+#bulgaria {
+  fill: #317925;
+}
+
+
+/* GERMANIC */
+#germany, #austria {
+  fill: #993120;
+}
+#switzerland {
+  fill: #772210;
+}
+#netherland {
+  fill: #993120;
+}
+#belgium {
+  fill: #9a3122;
+}
+#luxembourg {
+  fill: #9a3125;
+}
+#britain, #ireland {
+  fill: #bc3135;
+}
+#denmark {
+  fill: #992120;
+}
+#norway {
+  fill: #992125;
+}
+#sweden {
+  fill: #9a2135;
+}
+#iceland {
+  fill: #bb2115;
+}
+
+
+/* Romance */
+#french {
+  fill: #501050;
+}
+#italy {
+  fill: #550060;
+}
+#spain {
+  fill: #500060;
+}
+#portugal {
+  fill: #500065;
+}
+#romania {
+  fill: #350050;
+}
+#moldova {
+  fill: #401050;
+}
+
+/* Finno-Uralic */
+#finland {
+  fill: #330;
+}
+#estonia {
+  fill: #332200;
+}
+#hungary {
+  fill: #003;
+}
+
+
+/* BALTIC */
+#lithuania {
+  fill: #226;
+}
+#latvia {
+  fill: #356;
+}
+
+/* Other languages */
+#grecee {
+  fill: #88f;
+}
+
+
+.naddniprian {
+  fill: #20d745;
+}
+.stepovy {
+  fill: #00d725;
+}
+.southwestUkr {
+  fill: #2a8315;
+}
+.polissia {
+  fill: #2a8350;
+}
+.slabozansky {
+  fill: #00ef25;
+}
+.dialect {
+  z-index: 1;
+}
+.dialect:hover {
+  stroke: #f0f;
+  stroke-width: .25px;
+}
+
+.country:hover {
+  stroke: #f0f;
+  stroke-width: .5px;
+}
+.selectedCountry {
+  stroke: #f00;
+  stroke-width: .5px;
+}
+.selectedCountry:hover {
+  stroke: #f00;
+  stroke-width: .75px;
+}

@@ -1,0 +1,176 @@
+main > svg, div {
+  position: absolute;
+}
+
+#icelandPos {
+  left: 216px;
+  top: 16px;
+}
+#norwayPos {
+  left: 1000px;
+  top: 16px;
+}
+#swedenPos {
+  left: 1210px;
+  top: 175px;
+}
+#finlandPos {
+  left: 1452px;
+  top: 80px;
+}
+#estoniaPos {
+  left: 1583px;
+  top: 778px;
+}
+
+#latviaPos {
+  left: 1568px;
+  top: 889px;
+}
+#lithuaniaPos {
+  left: 1577px;
+  top: 1002px;
+}
+#britainPos {
+  left: 456px;
+  top: 705px;
+}
+#irelandPos {
+  left: 314px;
+  top: 1011px;
+}
+#denmarkPos {
+  left: 1084px;
+  top: 948px;
+}
+#belarusPos {
+  left: 1687px;
+  top: 997px;
+}
+#germanyPos {
+  left: 976px;
+  top: 1138px;
+}
+#polandPos {
+  left: 1320px;
+  top: 1138px;
+}
+#netherlandPos {
+  left: 869px;
+  top: 1228px;
+}
+#belgiumPos {
+  left: 831px;
+  top: 1354px;
+}
+#luxembourgPos {
+  left: 958px;
+  top: 1447px;
+}
+#czechPos {
+  left: 1235px;
+  top: 1402px;
+}
+#slovakiaPos {
+  left: 1448px;
+  top: 1488px;
+}
+#ukrainePos {
+  left: 1689px;
+  top: 1191px;
+}
+#moldovaPos {
+  left: 1890px;
+  top: 1515px;
+}
+#frenchPos {
+  left: 480px;
+  top: 1368px;
+}
+#switzerlandPos {
+  left: 963px;
+  top: 1615px;
+}
+#austriaPos {
+  left: 1121px;
+  top: 1538px;
+}
+#hungaryPos {
+  left: 1422px;
+  top: 1552px;
+}
+#romaniaPos {
+  left: 1618px;
+  top: 1539px;
+}
+#italyPos {
+  left: 978px;
+  top: 1668px;
+}
+#sloveniaPos {
+  left: 1293px;
+  top: 1683px;
+}
+#croatiaPos {
+  left: 1300px;
+  top: 1709px;
+}
+#bosniaPos {
+  left: 1411px;
+  top: 1788px;
+}
+#serbiaPos {
+  left: 1553px;
+  top: 1721px;
+}
+#bulgariaPos {
+  left: 1738px;
+  top: 1807px;
+}
+#macedoniaPos {
+  left: 1660px;
+  top: 1965px;
+}
+#albaniaPos {
+  left: 1596px;
+  top: 1954px;
+}
+#greceePos {
+  left: 1660px;
+  top: 1977px;
+}
+#spainPos {
+  left: 188px;
+  top: 1746px;
+}
+#portugalPos {
+  left: 98px;
+  top: 1847px;
+}
+
+
+/* UKR Dialects */
+#stepovyPos {
+  position: absolute;
+  left: 306px;
+  top: 154px;
+}
+#southwestUkrPos {
+  position: absolute;
+  top: 183px;
+}
+#naddniprianPos {
+  position: absolute;
+  top: 59px;
+  left: 251px;
+}
+#polissiaPos {
+  position: absolute;
+  top: 0px;
+  left: 33px;
+}
+#slabozanskyPos {
+  position: absolute;
+  top: 56px;
+  left: 475px;
+}

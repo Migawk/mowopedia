@@ -1,0 +1,10 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body, main {
+  min-width: 350vw;
+  min-height: 350vh;
+}
