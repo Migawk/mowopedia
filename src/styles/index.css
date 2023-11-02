@@ -1,10 +1,27 @@
+/*
+#1A120B
+#3C2A21
+#D5CEA3
+#E5E5CB
+*/
 body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  background: #3C2A21;
 }
 
 body, main {
   min-width: 350vw;
   min-height: 350vh;
+}
+
+path {
+  stroke: #E5E5CB;
+  stroke-width: .125px;
+  cursor: pointer;
+}
+path:hover {
+  stroke-width: .5px;
+  fill: #1A120B;
 }
